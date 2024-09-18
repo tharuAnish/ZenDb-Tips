@@ -6,7 +6,7 @@ We're excited that you want to contribute to our database tips collection! Here'
 2. Edit the `tips.md` file.
 3. Add your new tips at the end of the file using the following format:
 
-author: [YourName]
+author: [YourName]  
 github: [your-github-username]
 
 - [Your Database tip]
